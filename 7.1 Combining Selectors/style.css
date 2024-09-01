@@ -1,0 +1,92 @@
+/* Write your code here: */
+
+h1, h2 {
+color: blueviolet;
+}
+.box>p{
+   color: firebrick;
+}
+
+.box .list   {
+   color: blue;
+   
+}
+
+li.done{
+   color: seagreen;
+}
+
+ul p.done{
+   font-size: 0.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* grouping  */
+/* h1 , h2 {
+color: blueviolet;
+} */
+
+/* child */
+ /* .box > p {
+    color: firebrick;
+} */
+/* desending */
+/* .box li {
+ color:blue;
+} */
+/* Chaining */
+
+/* li.done{
+    color: seagreen;
+}
+
+ ul p.done{
+    font-size: 0.5rem;
+ } */
+
+
+
+ /* grouping  */
+ /* h1 , h2 {
+    color: blueviolet;
+ }
+
+ .box >p {
+    color: firebrick;
+ }.box li{
+    color: blue;
+ }
+ li.done{
+    color: seagreen;
+ }
+ ul p.done{
+    font-size: 0.5rem ;
+ } */
