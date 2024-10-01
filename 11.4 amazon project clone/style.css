@@ -26,6 +26,6 @@
   border: 2px solid transparent; 
 
 }
-.bo
-
-
+.border:hover {
+    border:  2px solid white;
+}
