@@ -9,6 +9,7 @@
     background-color: #0F1111;
     color: white;
     display: flex;
+    align-items: center;
 }
 
 .nav-logo{
@@ -37,13 +38,15 @@
 .add-first{
  font-size: 0.85rem;
  color: #cccccc;
- 
+ margin-left: 15px;
 
 }
 
 .add-second{
     font-size: 1rem;
+    margin-left: 3px
 }
 .add-icon{
     display: flex;
+    align-items: center ;
 }
