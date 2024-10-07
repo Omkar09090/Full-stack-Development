@@ -50,3 +50,8 @@
     display: flex;
     align-items: center ;
 }
+/* Box 3rd Seach*/
+
+.nav-search{
+    display: flex;
+}
