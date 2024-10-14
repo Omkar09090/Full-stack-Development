@@ -107,3 +107,14 @@ span{
     font-size: 0.90rem;
     font-weight: 700;
 }
+
+/* panel */
+.panel{
+    height: 40px;
+    background-color: #222f3d;
+    color: white;
+}
+
+.panel-ops{
+    display: flex;
+}
