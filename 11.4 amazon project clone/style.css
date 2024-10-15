@@ -113,8 +113,9 @@ span{
     height: 40px;
     background-color: #222f3d;
     color: white;
+    display: flex;
 }
 
 .panel-ops{
-    display: flex;
+    display: inline;
 }
