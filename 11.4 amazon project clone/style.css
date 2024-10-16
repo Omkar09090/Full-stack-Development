@@ -114,8 +114,18 @@ span{
     background-color: #222f3d;
     color: white;
     display: flex;
+    align-items: center;
+    justify-content:space-evenly;
 }
 
 .panel-ops{
-    display: inline;
+    width: 70%;
+    /* background-color: red; */
+    
 }
+.panel-ops p{
+    display: inline;
+    margin-left: 15px;
+}
+
+
