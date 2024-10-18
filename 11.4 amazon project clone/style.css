@@ -127,5 +127,26 @@ span{
     display: inline;
     margin-left: 20px;
 }
+/* hero-section */
 
+.hero-section{
+    background-image: url(hero_image.jpg);
+    /* background-size: cover; */
+    height: 700px;
+    background-size: cover;
+}
 
+.hero-message-section{
+    background-color: white;
+    width: 70%;
+    font-size: 0.94rem;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-message-section a{
+    color: #007185;
+    
+}
