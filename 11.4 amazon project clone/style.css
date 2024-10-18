@@ -133,6 +133,7 @@ span{
     background-image: url(hero_image.jpg);
     /* background-size: cover; */
     height: 700px;
+    width: 1350px;
     background-size: cover;
 }
 
