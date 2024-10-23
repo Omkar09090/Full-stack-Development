@@ -172,8 +172,12 @@ span{
     border: 2px solid black;
     width: 23%;
     background-color: white;
+    padding: 20px 0px 15px;
 }
 
 .box-image{
     height: 300px;
+    margin-left: 10px;
+    margin-left: 10px;
+    
 }
