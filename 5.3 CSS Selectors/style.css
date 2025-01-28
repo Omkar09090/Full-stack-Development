@@ -6,7 +6,7 @@ ol {
 
 /* Write your CSS below, don't change the rules above. */
 
-p{
+/* p{
   color: red;
 }
 
@@ -24,4 +24,21 @@ li[value ="4" ] {
 
 *{
   text-align: center;
-}
+} */
+ p{
+  color: #f00;
+ }
+ .note{
+  font-size: 20px
+ }
+ #id-selector-demo{
+ color:#008000
+ }
+
+ li[value="4"]{
+  color: #0000f0
+ }
+ *{
+  text-align: center;
+ }
+ 
